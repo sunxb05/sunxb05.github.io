@@ -86,16 +86,15 @@
 </header>
     <div class="article-content">
         
-        <h1 id="Home"><a href="#Home" class="headerlink" title="Home"></a><strong>Home</strong></h1><pre><code>&quot;PyFrag – Streamlining your reaction path analysis&quot; is [available](http://dx.doi.org/10.1002/jcc.20786 &quot;http://dx.doi.org/10.1002/jcc.20786&quot;)
-         in the Journal of Computational Chemistry.
-</code></pre><p>Reference: W.J. van Zeist, C.Fonseca Guerra, F.M. Bickelhaupt; J. Comput. Chem. 29, 312-315, 2008.</p>
-<pre><code>Pyfrag Released!
-</code></pre><p>[pyfrag] (content/pyfrag.png  “content/pyfrag.png”)</p>
+        <h1 id="Home"><a href="#Home" class="headerlink" title="Home"></a><strong>Home</strong></h1><p>“PyFrag – Streamlining your reaction path analysis” is <a href="http://dx.doi.org/10.1002/jcc.20786" title="http://dx.doi.org/10.1002/jcc.20786" target="_blank" rel="noopener">available</a><br>in the Journal of Computational Chemistry.</p>
+<p>Reference: W.J. van Zeist, C.Fonseca Guerra, F.M. Bickelhaupt; J. Comput. Chem. 29, 312-315, 2008.</p>
+<p>Pyfrag Released!</p>
+<p><img src="content/pyfrag.png" alt=""></p>
 <p>The program PyFrag has been released and is available for download. PyFrag enables user-friendly and routine explorations and analyses of one- or multidimensional potential energy surfaces with the Amsterdam Density Functional (ADF) package. The Python source can be found in the download section. PyFrag is written by Willem-Jan van Zeist and is under development by Lando P. Wolters at the <a href="http://www.chem.vu.nl/en/sec/tc/" title="http://www.chem.vu.nl/en/sec/tc/" target="_blank" rel="noopener">Theoretical Chemistry</a> department at the Vrije Universiteit in Amsterdam. So far it has been mainly used for research in the subgroup of <a href="http://www.few.vu.nl/~bickel/" title="http://www.few.vu.nl/~bickel/" target="_blank" rel="noopener">Prof. Dr. F.M. Bickelhaupt</a>.</p>
-<pre><code>Why PyFrag?
-</code></pre><p>Recently, the group of Prof. Dr. Bickelhaupt has focused on explaining chemical reactivity by means of the ‘Extended Activation Strain’ model. PyFrag serves as a valuable tool for this kind of research. Moreover, PyFrag facilitates an easy scan and analysis of any given (possibly multidimensional) potential energy surface. Such a PES can be constructed by PyFrag or can be taking from the output of for example Intrinisc Reaction Coordinate calculations. A short description of the activation strain model and the energy decomposition analysis with ADF is given below.</p>
-<pre><code>Extended Activation Strain Model &amp; Energy Decomposition Analysis
-</code></pre><p>Our group has used the Activation Strain model of chemical reactivity to gain insight into various fundamental chemical reactions such as SN(2) reactions and oxidative insertion/reductive elimination. In this model, the activation energy ∆E≠ is decomposed into the activation strain ∆E≠strain and the TS interaction ∆E≠int:</p>
+<p> Why PyFrag?</p>
+<p>Recently, the group of Prof. Dr. Bickelhaupt has focused on explaining chemical reactivity by means of the ‘Extended Activation Strain’ model. PyFrag serves as a valuable tool for this kind of research. Moreover, PyFrag facilitates an easy scan and analysis of any given (possibly multidimensional) potential energy surface. Such a PES can be constructed by PyFrag or can be taking from the output of for example Intrinisc Reaction Coordinate calculations. A short description of the activation strain model and the energy decomposition analysis with ADF is given below.</p>
+<p> Extended Activation Strain Model &amp; Energy Decomposition Analysis</p>
+<p>Our group has used the Activation Strain model of chemical reactivity to gain insight into various fundamental chemical reactions such as SN(2) reactions and oxidative insertion/reductive elimination. In this model, the activation energy ∆E≠ is decomposed into the activation strain ∆E≠strain and the TS interaction ∆E≠int:</p>
 <p>∆E≠= ∆E≠strain + ∆E≠int</p>
 <p>The activation strain ∆E≠strain is the strain energy associated with deforming the reactants from their equilibrium geometry to the geometry they acquire in the activated complex. The TS interaction ∆E≠int is the actual interaction energy between the deformed reactants in the transition state. However, a problem is that the position of the TS along the reaction coordinate (ζ = ζTS) has a large effect on the magnitude of ∆E≠strain = ∆E≠strain(ζTS) and ∆E≠int = ∆E≠int(ζTS). It is therefore unsatisfactory to view the decomposition solely at the TS-geometry.</p>
 <p>To tackle this problem, we have extended the Activation Strain model from a single-point analysis of the TS to an analysis along the reaction coordinate ζ:</p>
