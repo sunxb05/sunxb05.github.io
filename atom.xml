@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-06-15T08:21:15.532Z</updated>
+  <updated>2018-06-15T09:07:12.459Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Author</title>
+    <link href="http://yoursite.com/2018/06/15/Author/"/>
+    <id>http://yoursite.com/2018/06/15/Author/</id>
+    <published>2018-06-15T09:06:17.000Z</published>
+    <updated>2018-06-15T09:07:12.459Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Xiaobo-Sun"><a href="#Xiaobo-Sun" class="headerlink" title="Xiaobo Sun"></a>Xiaobo Sun</h1><h2 id="Basic-information"><a href="#Basic-information" class="headerlink" title="Basic information:"></a>Basic information:</h2><ul><li>Theoretical Chemistry  in  Vrije Universiteit Amsterdam (Free University Amsterdam)</li><li>Address 1183DC Uilenstede  362  Amstelveen The Netherland</li><li>Email   sunxb05@gmail.com</li><li>Phone   +31 619860936</li></ul><h2 id="Related-website"><a href="#Related-website" class="headerlink" title="Related website:"></a>Related website:</h2><ul><li><a href="https://sunxb05.github.io" title="https://sunxb05.github.io" target="_blank" rel="noopener">Homepage</a></li><li><a href="https://github.com/sunxb05/backup" title="https://github.com/sunxb05/backup" target="_blank" rel="noopener">github source</a></li><li><a href="http://www.few.vu.nl/~xsn800/Home.html" title="http://www.few.vu.nl/~xsn800/Home.html" target="_blank" rel="noopener">pyfrag2007 website</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;Xiaobo-Sun&quot;&gt;&lt;a href=&quot;#Xiaobo-Sun&quot; class=&quot;headerlink&quot; title=&quot;Xiaobo Sun&quot;&gt;&lt;/a&gt;Xiaobo Sun&lt;/h1&gt;&lt;h2 id=&quot;Basic-information&quot;&gt;&lt;a href=&quot;#Basi
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>PyFrag2007 Document</title>
