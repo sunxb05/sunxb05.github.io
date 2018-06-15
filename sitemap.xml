@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/author/index.html</loc>
+    
+    <lastmod>2018-06-15T08:33:37.213Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2018/06/14/PyFrag2007-Document/</loc>
     
     <lastmod>2018-06-15T08:21:15.532Z</lastmod>
