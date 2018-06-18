@@ -2,16 +2,107 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/people/index.html</loc>
+    <loc>http://yoursite.com/contact/index.html</loc>
     
-    <lastmod>2018-06-18T15:30:37.904Z</lastmod>
+    <lastmod>2018-06-18T15:49:15.871Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/cronological/index.html</loc>
+    
+    <lastmod>2018-06-18T15:49:03.006Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/curriculumvitae/index.html</loc>
+    
+    <lastmod>2018-06-18T15:48:52.224Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/phdtheses/index.html</loc>
+    
+    <lastmod>2018-06-18T15:48:36.908Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/software/index.html</loc>
+    
+    <lastmod>2018-06-18T15:48:24.183Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/refereedpublications/index.html</loc>
+    
+    <lastmod>2018-06-18T15:48:01.261Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/publications/index.html</loc>
+    
+    <lastmod>2018-06-18T15:47:49.230Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/pyfragold/index.html</loc>
+    
+    <lastmod>2018-06-18T15:47:34.838Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/pyfrag/index.html</loc>
+    
+    <lastmod>2018-06-18T15:47:22.098Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/researchtools/index.html</loc>
+    
+    <lastmod>2018-06-18T15:47:04.936Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/researchprojects/index.html</loc>
+    
+    <lastmod>2018-06-18T15:46:42.703Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/research/index.html</loc>
+    
+    <lastmod>2018-06-18T15:46:27.168Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/groupmembers/index.html</loc>
+    
+    <lastmod>2018-06-18T15:46:14.314Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://yoursite.com/2018/06/18/home/</loc>
     
-    <lastmod>2018-06-18T15:27:37.404Z</lastmod>
+    <lastmod>2018-06-18T15:45:41.229Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/people/index.html</loc>
+    
+    <lastmod>2018-06-18T15:30:37.904Z</lastmod>
     
   </url>
   
