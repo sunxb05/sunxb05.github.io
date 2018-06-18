@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2018/06/18/home/</loc>
+    
+    <lastmod>2018-06-18T19:46:46.600Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/pyfragold/index.html</loc>
+    
+    <lastmod>2018-06-18T19:45:53.128Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/contact/index.html</loc>
     
     <lastmod>2018-06-18T19:41:39.258Z</lastmod>
@@ -96,20 +110,6 @@
     <loc>http://yoursite.com/refereedpublications/index.html</loc>
     
     <lastmod>2018-06-18T19:26:06.977Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2018/06/18/home/</loc>
-    
-    <lastmod>2018-06-18T16:33:14.099Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/pyfragold/index.html</loc>
-    
-    <lastmod>2018-06-18T15:47:34.838Z</lastmod>
     
   </url>
   
