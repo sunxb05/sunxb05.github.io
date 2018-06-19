@@ -2,6 +2,90 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/research/index.html</loc>
+    
+    <lastmod>2018-06-19T12:15:47.764Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/researchtools/index.html</loc>
+    
+    <lastmod>2018-06-19T12:15:02.444Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/refereedpublications/index.html</loc>
+    
+    <lastmod>2018-06-19T12:14:48.303Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/pyfrag/index.html</loc>
+    
+    <lastmod>2018-06-19T12:14:13.706Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/pyfragold/index.html</loc>
+    
+    <lastmod>2018-06-19T12:13:48.119Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/publications/index.html</loc>
+    
+    <lastmod>2018-06-19T12:13:01.179Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/phdtheses/index.html</loc>
+    
+    <lastmod>2018-06-19T12:12:48.679Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/people/index.html</loc>
+    
+    <lastmod>2018-06-19T12:12:26.717Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/honors/index.html</loc>
+    
+    <lastmod>2018-06-19T12:12:00.954Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/groupmembers/index.html</loc>
+    
+    <lastmod>2018-06-19T12:11:32.540Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/curriculumvitae/index.html</loc>
+    
+    <lastmod>2018-06-19T12:11:15.097Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/cronological/index.html</loc>
+    
+    <lastmod>2018-06-19T12:10:54.358Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2018/06/18/home/</loc>
     
     <lastmod>2018-06-19T11:58:25.104Z</lastmod>
@@ -16,13 +100,6 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/research/index.html</loc>
-    
-    <lastmod>2018-06-19T11:56:46.344Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://yoursite.com/researchprojects/index.html</loc>
     
     <lastmod>2018-06-19T11:56:44.245Z</lastmod>
@@ -30,86 +107,9 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/researchtools/index.html</loc>
-    
-    <lastmod>2018-06-19T11:56:41.541Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/refereedpublications/index.html</loc>
-    
-    <lastmod>2018-06-19T11:56:32.370Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/pyfrag/index.html</loc>
-    
-    <lastmod>2018-06-19T11:56:29.600Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/publications/index.html</loc>
-    
-    <lastmod>2018-06-19T11:56:25.564Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/phdtheses/index.html</loc>
-    
-    <lastmod>2018-06-19T11:56:21.579Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/people/index.html</loc>
-    
-    <lastmod>2018-06-19T11:56:17.452Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/honors/index.html</loc>
-    
-    <lastmod>2018-06-19T11:56:12.501Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/groupmembers/index.html</loc>
-    
-    <lastmod>2018-06-19T11:56:00.273Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/curriculumvitae/index.html</loc>
-    
-    <lastmod>2018-06-19T11:55:56.630Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/cronological/index.html</loc>
-    
-    <lastmod>2018-06-19T11:55:52.971Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://yoursite.com/contact/index.html</loc>
     
     <lastmod>2018-06-19T11:55:46.722Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/pyfragold/index.html</loc>
-    
-    <lastmod>2018-06-18T19:45:53.128Z</lastmod>
     
   </url>
   
