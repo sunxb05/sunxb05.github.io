@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/pyfrag/index.html</loc>
+    
+    <lastmod>2019-01-07T12:11:43.785Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/pyfrag/index_1.html</loc>
+    
+    <lastmod>2019-01-07T12:11:06.893Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/refereedpublications/index.html</loc>
     
     <lastmod>2018-06-19T12:18:24.066Z</lastmod>
@@ -26,13 +40,6 @@
     <loc>http://yoursite.com/researchtools/index.html</loc>
     
     <lastmod>2018-06-19T12:15:02.444Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/pyfrag/index.html</loc>
-    
-    <lastmod>2018-06-19T12:14:13.706Z</lastmod>
     
   </url>
   
