@@ -13,7 +13,7 @@
 <meta property="og:site_name" content="Snow">
 <meta property="og:description" content="Theoretical Chemistry – ACMM – Department of Chemistry – Faculty of Sciences – Vrije Universiteit Amsterdam  Home People Group Members   Research Research Projects Research Tools PyFrag PyFrag Old   P">
 <meta property="og:image" content="http://c.statcounter.com/t.php?sc_project=232560&java=1&security=&u1=9E3C867994D84F66E1F9FC73747B1C09&sc_random=0.9092635490650225&jg=10&rr=2.1.1.1.1.1.1.1.1&resolution=1920&h=1080&camefrom=http%3A//www.few.vu.nl/%7Ebickel/page-1/group-members/&u=http%3A//www.few.vu.nl/%7Ebickel/page-1/&t=People%20%7C%20Bickelhaupt%20Group%20%7C%20F.%20M.%20Bickelhaupt&rcat=d&rdomo=d&rdomg=10&sc_snum=1&sess=7a9eb4&p=0">
-<meta property="og:updated_time" content="2019-01-07T12:11:43.785Z">
+<meta property="og:updated_time" content="2019-01-07T12:19:37.132Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Pyfrag">
 <meta name="twitter:description" content="Theoretical Chemistry – ACMM – Department of Chemistry – Faculty of Sciences – Vrije Universiteit Amsterdam  Home People Group Members   Research Research Projects Research Tools PyFrag PyFrag Old   P">
@@ -121,14 +121,14 @@
 <p><em>startpython pyfrag.py – ircpath molecule.xyz – fragment 2 – fragment 1 3 4 5 6 – strain 0 – strain -554.1 – bondlength 1 6 1.093 – angle 2 1 6 180 –VDD 2 1 6 – hirshfeld frag1 – irrepOI AA – orbitalenergy frag2 LUMO – adfinput basis.type=TZ2P – adfinputfile adfinputfile</em></p>
 <p>Bash script example to run PyFrag:</p>
 <p><em>#!/bin/bash</em></p>
-<p>_#SBATCH -J pyfrag<em>input</em></p>
+<p><em>#SBATCH -J pyfrag-input</em></p>
 <p><em>#SBATCH -N 1</em></p>
 <p><em>#SBATCH -t 1:00:00</em></p>
 <p><em>#SBATCH –partition=tc5</em></p>
 <p><em>#SBATCH –output=%job.stdout</em></p>
 <p><em>#SBATCH –error=%job.stderr</em></p>
 <p><em>export NSCM=16</em></p>
-<p>_export SCM<em>TMPDIR=$TMPDIR</em></p>
+<p><em>export SCM-TMPDIR=$TMPDIR</em></p>
 <p><em>startpython PathtoPyfrag/PyFrag.py \</em></p>
 <p><em>–name filename \</em></p>
 <p><em>–ircpath PathtoMolecule/molecule.xyz \</em></p>
@@ -162,7 +162,7 @@
 <p>These following statements allow you to define the fragments in the analysis. For each of the fragments you supply a list of the numbers for the atoms as they exist on the LT or IRC file. The program will check if they match with the order as in the IRC or LT calculation file. It will print a statement in the error log if it thinks the order is wrong.</p>
 <p><em>• – fragment atomnrs</em></p>
 <p><em>for example:</em></p>
-<p><em>• – fragment 2 –fragment 1 3 4 5 6</em></p>
+<p><em>• – fragment 2 – fragment 1 3 4 5 6</em></p>
 <p>There are two ways to specify a parameter set for an ADF calculation. Either one can directly set it or one can provide a file containing all information which can be used repeatedly.</p>
 <p><em>• – adfinput adfparameter</em></p>
 <p><em>• –adfinputfile adfinputfile</em></p>
@@ -182,9 +182,9 @@
 <p><em>for example:</em></p>
 <p><em>• – strain -301.01</em><br><em>• – strain -19.02</em></p>
 <p>To specify the bond length to be printed for each geometry step, just indicate the atom numbers as they appear in the input order of the total molecule. Specifying bond_diff as well subtracts this value from the actual bond length.</p>
-<p>_• – bondlength atomnr1 atomnr2 bond<em>diff</em></p>
+<p><em>• – bondlength atomnr1 atomnr2 bond-diff</em></p>
 <p>To specify the angle between atoms 1, 2 and 3 to be printed for each geometry step, just indicate the atom numbers as they appear in the input order of the total molecule. Specifying angle_diff as well subtracts this value from the actual angle.</p>
-<p>_• – bangle atomnr1 atomnr2 atomnr3 angle<em>diff</em></p>
+<p><em>• – bangle atomnr1 atomnr2 atomnr3 angle-diff</em></p>
 <p>The following will print the Hirshfeld charges for the fragment. Note that the order of the fragments as used internally by ADF may differ from what you would expect. Note also that Hirshfeld charges as computed in a fragment analysis differ from those obtained in a ‘normal’ calculation from basic (spherical average-of configurations) ADF atoms like simple single point calculations.</p>
 <p><em>• – hirshfeld frag1</em></p>
 <p>The following prints the VDD charges on the atoms with numbers as given by atomnrs. Note also that VDD charges as computed in a fragment analysis differ from those obtained in a ‘normal’ calculation from basic (spherical average-of configurations) atoms like single point calculation.</p>
@@ -218,7 +218,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://yoursite.com/pyfrag/index.html" data-id="cjqmad8zs000el5ul5kr0r1z7" class="article-share-link">Teilen</a>
+      <a data-url="http://yoursite.com/pyfrag/index.html" data-id="cjqman5pm000drpul8xn6rrxs" class="article-share-link">Teilen</a>
       
       
     </footer>
